@@ -8,39 +8,27 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>triangle</name>
+        <name>hexagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>24</xmin>
-            <ymin>97</ymin>
-            <xmax>77</xmax>
-            <ymax>153</ymax>
+            <xmin>132</xmin>
+            <ymin>110</ymin>
+            <xmax>168</xmax>
+            <ymax>140</ymax>
         </bndbox>
     </object>
     <object>
-        <name>nonagon</name>
+        <name>octagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>124</xmin>
-            <ymin>100</ymin>
-            <xmax>177</xmax>
-            <ymax>150</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>triangle</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>338</xmin>
-            <ymin>112</ymin>
-            <xmax>363</xmax>
-            <ymax>138</ymax>
+            <xmin>235</xmin>
+            <ymin>110</ymin>
+            <xmax>265</xmax>
+            <ymax>140</ymax>
         </bndbox>
     </object>
     <object>
@@ -49,34 +37,10 @@
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>435</xmin>
-            <ymin>110</ymin>
-            <xmax>465</xmax>
-            <ymax>140</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>hexagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>35</xmin>
-            <ymin>362</ymin>
-            <xmax>65</xmax>
-            <ymax>388</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>triangle</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>128</xmin>
-            <ymin>352</ymin>
-            <xmax>173</xmax>
-            <ymax>399</ymax>
+            <xmin>418</xmin>
+            <ymin>93</ymin>
+            <xmax>482</xmax>
+            <ymax>157</ymax>
         </bndbox>
     </object>
     <object>
@@ -85,21 +49,9 @@
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>218</xmin>
-            <ymin>346</ymin>
-            <xmax>282</xmax>
-            <ymax>405</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>triangle</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>435</xmin>
+            <xmin>33</xmin>
             <ymin>359</ymin>
-            <xmax>466</xmax>
+            <xmax>67</xmax>
             <ymax>391</ymax>
         </bndbox>
     </object>

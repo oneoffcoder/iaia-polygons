@@ -8,75 +8,15 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>nonagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>19</xmin>
-            <ymin>95</ymin>
-            <xmax>82</xmax>
-            <ymax>155</ymax>
-        </bndbox>
-    </object>
-    <object>
         <name>triangle</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>138</xmin>
-            <ymin>112</ymin>
-            <xmax>163</xmax>
-            <ymax>138</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>heptagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>236</xmin>
-            <ymin>111</ymin>
-            <xmax>265</xmax>
-            <ymax>139</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>hexagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>317</xmin>
-            <ymin>98</ymin>
-            <xmax>384</xmax>
-            <ymax>153</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>hexagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>16</xmin>
-            <ymin>347</ymin>
-            <xmax>85</xmax>
-            <ymax>404</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>nonagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>224</xmin>
-            <ymin>351</ymin>
-            <xmax>276</xmax>
-            <ymax>400</ymax>
+            <xmin>338</xmin>
+            <ymin>362</ymin>
+            <xmax>363</xmax>
+            <ymax>388</ymax>
         </bndbox>
     </object>
 </annotation>

@@ -8,27 +8,15 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>triangle</name>
+        <name>pentagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>25</xmin>
-            <ymin>99</ymin>
-            <xmax>76</xmax>
-            <ymax>152</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>decagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>127</xmin>
-            <ymin>104</ymin>
-            <xmax>174</xmax>
-            <ymax>147</ymax>
+            <xmin>423</xmin>
+            <ymin>98</ymin>
+            <xmax>478</xmax>
+            <ymax>153</ymax>
         </bndbox>
     </object>
     <object>
@@ -37,58 +25,10 @@
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>228</xmin>
-            <ymin>107</ymin>
-            <xmax>272</xmax>
-            <ymax>144</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>triangle</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>335</xmin>
-            <ymin>109</ymin>
-            <xmax>366</xmax>
-            <ymax>142</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>quadrilateral</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>17</xmin>
-            <ymin>342</ymin>
-            <xmax>83</xmax>
-            <ymax>408</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>quadrilateral</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>228</xmin>
-            <ymin>353</ymin>
-            <xmax>273</xmax>
-            <ymax>398</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>quadrilateral</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>433</xmin>
-            <ymin>358</ymin>
-            <xmax>468</xmax>
-            <ymax>393</ymax>
+            <xmin>21</xmin>
+            <ymin>351</ymin>
+            <xmax>79</xmax>
+            <ymax>399</ymax>
         </bndbox>
     </object>
 </annotation>

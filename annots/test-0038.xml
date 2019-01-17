@@ -8,39 +8,63 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>octagon</name>
+        <name>triangle</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>29</xmin>
-            <ymin>104</ymin>
-            <xmax>71</xmax>
+            <xmin>31</xmin>
+            <ymin>105</ymin>
+            <xmax>70</xmax>
             <ymax>146</ymax>
         </bndbox>
     </object>
     <object>
-        <name>heptagon</name>
+        <name>triangle</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>33</xmin>
-            <ymin>358</ymin>
-            <xmax>68</xmax>
-            <ymax>392</ymax>
+            <xmin>338</xmin>
+            <ymin>112</ymin>
+            <xmax>363</xmax>
+            <ymax>138</ymax>
         </bndbox>
     </object>
     <object>
-        <name>nonagon</name>
+        <name>hexagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>220</xmin>
-            <ymin>347</ymin>
-            <xmax>280</xmax>
-            <ymax>404</ymax>
+            <xmin>435</xmin>
+            <ymin>112</ymin>
+            <xmax>465</xmax>
+            <ymax>138</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>decagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>35</xmin>
+            <ymin>361</ymin>
+            <xmax>65</xmax>
+            <ymax>389</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>hexagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>324</xmin>
+            <ymin>353</ymin>
+            <xmax>377</xmax>
+            <ymax>398</ymax>
         </bndbox>
     </object>
 </annotation>

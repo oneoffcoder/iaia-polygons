@@ -8,63 +8,51 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>hexagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>135</xmin>
-            <ymin>112</ymin>
-            <xmax>165</xmax>
-            <ymax>138</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>quadrilateral</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>332</xmin>
-            <ymin>107</ymin>
-            <xmax>368</xmax>
-            <ymax>143</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>hexagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>35</xmin>
-            <ymin>362</ymin>
-            <xmax>65</xmax>
-            <ymax>388</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>octagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>116</xmin>
-            <ymin>341</ymin>
-            <xmax>184</xmax>
-            <ymax>409</ymax>
-        </bndbox>
-    </object>
-    <object>
         <name>triangle</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>237</xmin>
-            <ymin>361</ymin>
-            <xmax>264</xmax>
-            <ymax>389</ymax>
+            <xmin>30</xmin>
+            <ymin>104</ymin>
+            <xmax>70</xmax>
+            <ymax>146</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>pentagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>131</xmin>
+            <ymin>106</ymin>
+            <xmax>170</xmax>
+            <ymax>145</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>pentagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>427</xmin>
+            <ymin>102</ymin>
+            <xmax>474</xmax>
+            <ymax>149</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>nonagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>17</xmin>
+            <ymin>344</ymin>
+            <xmax>83</xmax>
+            <ymax>407</ymax>
         </bndbox>
     </object>
     <object>
@@ -73,10 +61,22 @@
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>332</xmin>
-            <ymin>357</ymin>
-            <xmax>368</xmax>
-            <ymax>393</ymax>
+            <xmin>130</xmin>
+            <ymin>355</ymin>
+            <xmax>171</xmax>
+            <ymax>396</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>nonagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>325</xmin>
+            <ymin>351</ymin>
+            <xmax>375</xmax>
+            <ymax>399</ymax>
         </bndbox>
     </object>
 </annotation>

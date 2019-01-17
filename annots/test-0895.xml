@@ -8,51 +8,15 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>triangle</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>128</xmin>
-            <ymin>102</ymin>
-            <xmax>172</xmax>
-            <ymax>149</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>quadrilateral</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>332</xmin>
-            <ymin>107</ymin>
-            <xmax>369</xmax>
-            <ymax>144</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>decagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>435</xmin>
-            <ymin>111</ymin>
-            <xmax>465</xmax>
-            <ymax>139</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>decagon</name>
+        <name>hexagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
             <xmin>35</xmin>
-            <ymin>361</ymin>
+            <ymin>112</ymin>
             <xmax>65</xmax>
-            <ymax>389</ymax>
+            <ymax>138</ymax>
         </bndbox>
     </object>
     <object>
@@ -61,10 +25,22 @@
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>317</xmin>
-            <ymin>345</ymin>
-            <xmax>384</xmax>
-            <ymax>406</ymax>
+            <xmin>419</xmin>
+            <ymin>96</ymin>
+            <xmax>482</xmax>
+            <ymax>154</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>octagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>321</xmin>
+            <ymin>346</ymin>
+            <xmax>379</xmax>
+            <ymax>404</ymax>
         </bndbox>
     </object>
 </annotation>

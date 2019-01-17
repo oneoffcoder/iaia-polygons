@@ -8,15 +8,27 @@
         <depth>3</depth>
     </size>
     <object>
+        <name>pentagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>233</xmin>
+            <ymin>108</ymin>
+            <xmax>267</xmax>
+            <ymax>142</ymax>
+        </bndbox>
+    </object>
+    <object>
         <name>triangle</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>138</xmin>
-            <ymin>112</ymin>
-            <xmax>163</xmax>
-            <ymax>138</ymax>
+            <xmin>323</xmin>
+            <ymin>97</ymin>
+            <xmax>377</xmax>
+            <ymax>154</ymax>
         </bndbox>
     </object>
     <object>
@@ -25,22 +37,22 @@
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>316</xmin>
-            <ymin>91</ymin>
-            <xmax>385</xmax>
-            <ymax>160</ymax>
+            <xmin>116</xmin>
+            <ymin>341</ymin>
+            <xmax>185</xmax>
+            <ymax>410</ymax>
         </bndbox>
     </object>
     <object>
-        <name>octagon</name>
+        <name>decagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>127</xmin>
-            <ymin>352</ymin>
-            <xmax>174</xmax>
-            <ymax>399</ymax>
+            <xmin>235</xmin>
+            <ymin>361</ymin>
+            <xmax>265</xmax>
+            <ymax>389</ymax>
         </bndbox>
     </object>
     <object>
@@ -49,10 +61,10 @@
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>336</xmin>
-            <ymin>361</ymin>
-            <xmax>364</xmax>
-            <ymax>389</ymax>
+            <xmin>327</xmin>
+            <ymin>352</ymin>
+            <xmax>374</xmax>
+            <ymax>399</ymax>
         </bndbox>
     </object>
 </annotation>

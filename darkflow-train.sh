@@ -1,9 +1,9 @@
 #!/bin/bash
 
-flow --model /home/super/tmp/tiny-yolo-voc-tmp.cfg \
+flow --model /tmp/iaia-polygons/tiny-yolo-voc-iaia-polygons.cfg \
      --load bin/tiny-yolo-voc.weights \
-     --labels /home/super/tmp/tmp_labels.txt  \
+     --labels /tmp/iaia-polygons/iaia-polygons_labels.txt  \
      --train \
-     --annotation /home/super/tmp/annots \
-     --dataset /home/super/tmp/images \
+     --annotation /tmp/iaia-polygons/annots \
+     --dataset /tmp/iaia-polygons/images \
      --gpu 1.0

@@ -8,15 +8,15 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>decagon</name>
+        <name>octagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
             <xmin>134</xmin>
-            <ymin>110</ymin>
-            <xmax>167</xmax>
-            <ymax>140</ymax>
+            <ymin>109</ymin>
+            <xmax>166</xmax>
+            <ymax>141</ymax>
         </bndbox>
     </object>
     <object>
@@ -25,10 +25,10 @@
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>222</xmin>
-            <ymin>97</ymin>
-            <xmax>279</xmax>
-            <ymax>154</ymax>
+            <xmin>335</xmin>
+            <ymin>110</ymin>
+            <xmax>365</xmax>
+            <ymax>140</ymax>
         </bndbox>
     </object>
     <object>
@@ -37,34 +37,34 @@
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>326</xmin>
-            <ymin>101</ymin>
-            <xmax>374</xmax>
-            <ymax>149</ymax>
+            <xmin>436</xmin>
+            <ymin>111</ymin>
+            <xmax>464</xmax>
+            <ymax>139</ymax>
         </bndbox>
     </object>
     <object>
-        <name>quadrilateral</name>
+        <name>triangle</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>423</xmin>
-            <ymin>98</ymin>
-            <xmax>478</xmax>
-            <ymax>153</ymax>
+            <xmin>127</xmin>
+            <ymin>351</ymin>
+            <xmax>173</xmax>
+            <ymax>400</ymax>
         </bndbox>
     </object>
     <object>
-        <name>octagon</name>
+        <name>decagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>328</xmin>
-            <ymin>353</ymin>
-            <xmax>373</xmax>
-            <ymax>398</ymax>
+            <xmin>235</xmin>
+            <ymin>361</ymin>
+            <xmax>265</xmax>
+            <ymax>389</ymax>
         </bndbox>
     </object>
     <object>

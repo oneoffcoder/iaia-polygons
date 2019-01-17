@@ -20,15 +20,15 @@
         </bndbox>
     </object>
     <object>
-        <name>decagon</name>
+        <name>octagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>216</xmin>
-            <ymin>94</ymin>
-            <xmax>284</xmax>
-            <ymax>157</ymax>
+            <xmin>235</xmin>
+            <ymin>110</ymin>
+            <xmax>265</xmax>
+            <ymax>140</ymax>
         </bndbox>
     </object>
     <object>
@@ -38,33 +38,9 @@
         <difficult>0</difficult>
         <bndbox>
             <xmin>323</xmin>
-            <ymin>101</ymin>
-            <xmax>377</xmax>
-            <ymax>150</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>decagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>328</xmin>
-            <ymin>355</ymin>
-            <xmax>373</xmax>
-            <ymax>396</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>nonagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>426</xmin>
-            <ymin>352</ymin>
-            <xmax>474</xmax>
-            <ymax>398</ymax>
+            <ymin>350</ymin>
+            <xmax>378</xmax>
+            <ymax>400</ymax>
         </bndbox>
     </object>
 </annotation>

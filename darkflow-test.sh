@@ -1,7 +1,7 @@
 #!/bin/bash
 
-flow --model /home/super/tmp/tiny-yolo-voc-tmp.cfg \
-    --imgdir /home/super/tmp/images \
-    --labels /home/super/tmp/tmp_labels.txt \
+flow --model /tmp/iaia-polygons/tiny-yolo-voc-iaia-polygons.cfg \
+    --imgdir /tmp/iaia-polygons/images \
+    --labels /tmp/iaia-polygons/iaia-polygons_labels.txt \
     --gpu 1.0 \
     --load -1

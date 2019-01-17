@@ -20,15 +20,15 @@
         </bndbox>
     </object>
     <object>
-        <name>triangle</name>
+        <name>heptagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>423</xmin>
-            <ymin>97</ymin>
-            <xmax>477</xmax>
-            <ymax>154</ymax>
+            <xmin>336</xmin>
+            <ymin>111</ymin>
+            <xmax>365</xmax>
+            <ymax>139</ymax>
         </bndbox>
     </object>
     <object>
@@ -37,10 +37,22 @@
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>121</xmin>
-            <ymin>349</ymin>
-            <xmax>179</xmax>
-            <ymax>402</ymax>
+            <xmin>435</xmin>
+            <ymin>111</ymin>
+            <xmax>465</xmax>
+            <ymax>139</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>heptagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>34</xmin>
+            <ymin>360</ymin>
+            <xmax>66</xmax>
+            <ymax>391</ymax>
         </bndbox>
     </object>
 </annotation>

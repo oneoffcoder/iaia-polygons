@@ -8,39 +8,39 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>hexagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>125</xmin>
-            <ymin>104</ymin>
-            <xmax>176</xmax>
-            <ymax>147</ymax>
-        </bndbox>
-    </object>
-    <object>
         <name>heptagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>217</xmin>
-            <ymin>94</ymin>
-            <xmax>283</xmax>
-            <ymax>157</ymax>
+            <xmin>127</xmin>
+            <ymin>103</ymin>
+            <xmax>173</xmax>
+            <ymax>147</ymax>
         </bndbox>
     </object>
     <object>
-        <name>octagon</name>
+        <name>decagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>330</xmin>
-            <ymin>105</ymin>
-            <xmax>371</xmax>
-            <ymax>146</ymax>
+            <xmin>235</xmin>
+            <ymin>111</ymin>
+            <xmax>265</xmax>
+            <ymax>139</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>hexagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>128</xmin>
+            <ymin>356</ymin>
+            <xmax>173</xmax>
+            <ymax>394</ymax>
         </bndbox>
     </object>
     <object>
@@ -49,34 +49,22 @@
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>26</xmin>
-            <ymin>351</ymin>
-            <xmax>74</xmax>
-            <ymax>399</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>nonagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
             <xmin>236</xmin>
             <ymin>361</ymin>
-            <xmax>265</xmax>
+            <xmax>264</xmax>
             <ymax>389</ymax>
         </bndbox>
     </object>
     <object>
-        <name>nonagon</name>
+        <name>quadrilateral</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>436</xmin>
-            <ymin>361</ymin>
+            <xmin>435</xmin>
+            <ymin>360</ymin>
             <xmax>465</xmax>
-            <ymax>389</ymax>
+            <ymax>390</ymax>
         </bndbox>
     </object>
 </annotation>

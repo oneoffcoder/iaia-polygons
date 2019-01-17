@@ -1,5 +1,5 @@
 #!/bin/bash
 
 ./darknet detector train \
-  /home/super/tmp/tmp.data \
-  /home/super/tmp/yolov3-tiny-tmp.cfg
+  /tmp/iaia-polygons/iaia-polygons.data \
+  /tmp/iaia-polygons/yolov3-tiny-iaia-polygons.cfg

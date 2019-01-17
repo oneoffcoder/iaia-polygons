@@ -8,51 +8,51 @@
         <depth>3</depth>
     </size>
     <object>
+        <name>decagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>334</xmin>
+            <ymin>110</ymin>
+            <xmax>367</xmax>
+            <ymax>140</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>octagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>435</xmin>
+            <ymin>110</ymin>
+            <xmax>465</xmax>
+            <ymax>140</ymax>
+        </bndbox>
+    </object>
+    <object>
         <name>pentagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>126</xmin>
-            <ymin>101</ymin>
-            <xmax>174</xmax>
-            <ymax>149</ymax>
+            <xmin>136</xmin>
+            <ymin>361</ymin>
+            <xmax>164</xmax>
+            <ymax>389</ymax>
         </bndbox>
     </object>
     <object>
-        <name>nonagon</name>
+        <name>pentagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>323</xmin>
-            <ymin>100</ymin>
-            <xmax>377</xmax>
-            <ymax>151</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>nonagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>436</xmin>
-            <ymin>111</ymin>
-            <xmax>465</xmax>
-            <ymax>139</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>nonagon</name>
-        <pose>center</pose>
-        <truncated>1</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>18</xmin>
-            <ymin>344</ymin>
-            <xmax>83</xmax>
-            <ymax>406</ymax>
+            <xmin>431</xmin>
+            <ymin>356</ymin>
+            <xmax>470</xmax>
+            <ymax>395</ymax>
         </bndbox>
     </object>
 </annotation>

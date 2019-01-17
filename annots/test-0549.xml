@@ -20,27 +20,27 @@
         </bndbox>
     </object>
     <object>
-        <name>pentagon</name>
+        <name>nonagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>423</xmin>
-            <ymin>98</ymin>
-            <xmax>478</xmax>
-            <ymax>153</ymax>
+            <xmin>236</xmin>
+            <ymin>361</ymin>
+            <xmax>265</xmax>
+            <ymax>389</ymax>
         </bndbox>
     </object>
     <object>
-        <name>hexagon</name>
+        <name>octagon</name>
         <pose>center</pose>
         <truncated>1</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>328</xmin>
-            <ymin>357</ymin>
-            <xmax>372</xmax>
-            <ymax>394</ymax>
+            <xmin>433</xmin>
+            <ymin>358</ymin>
+            <xmax>467</xmax>
+            <ymax>392</ymax>
         </bndbox>
     </object>
 </annotation>

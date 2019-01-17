@@ -1,0 +1,5 @@
+classes = 8
+train  = /tmp/iaia-polygons/iaia-polygons_train.txt
+valid  = /tmp/iaia-polygons/iaia-polygons_valid.txt
+names = /tmp/iaia-polygons/iaia-polygons_labels.txt
+backup = backup
