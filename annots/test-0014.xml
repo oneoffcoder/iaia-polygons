@@ -1,0 +1,34 @@
+<annotation>
+    <folder>images</folder>
+    <filename>test-0014.jpg</filename>
+    <segmented>0</segmented>
+    <size>
+        <width>500</width>
+        <height>500</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>octagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>126</xmin>
+            <ymin>101</ymin>
+            <xmax>175</xmax>
+            <ymax>150</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>octagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>324</xmin>
+            <ymin>99</ymin>
+            <xmax>376</xmax>
+            <ymax>151</ymax>
+        </bndbox>
+    </object>
+</annotation>

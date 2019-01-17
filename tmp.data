@@ -1,0 +1,5 @@
+classes = 8
+train  = /home/super/tmp/tmp_train.txt
+valid  = /home/super/tmp/tmp_valid.txt
+names = /home/super/tmp/tmp_labels.txt
+backup = backup

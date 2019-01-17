@@ -1,0 +1,34 @@
+<annotation>
+    <folder>images</folder>
+    <filename>test-0279.jpg</filename>
+    <segmented>0</segmented>
+    <size>
+        <width>500</width>
+        <height>500</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>heptagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>19</xmin>
+            <ymin>96</ymin>
+            <xmax>81</xmax>
+            <ymax>155</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>octagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>35</xmin>
+            <ymin>360</ymin>
+            <xmax>65</xmax>
+            <ymax>390</ymax>
+        </bndbox>
+    </object>
+</annotation>

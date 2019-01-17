@@ -1,0 +1,34 @@
+<annotation>
+    <folder>images</folder>
+    <filename>test-0591.jpg</filename>
+    <segmented>0</segmented>
+    <size>
+        <width>500</width>
+        <height>500</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>decagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>32</xmin>
+            <ymin>108</ymin>
+            <xmax>69</xmax>
+            <ymax>142</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>hexagon</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>423</xmin>
+            <ymin>102</ymin>
+            <xmax>478</xmax>
+            <ymax>148</ymax>
+        </bndbox>
+    </object>
+</annotation>
